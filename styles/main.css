@@ -1645,6 +1645,10 @@ td {
 }
 
       body {
-        color: #ffd43b;
+        background: #fcc419;
+      }
+    
+      body {
+        color: #212529;
       }
     
