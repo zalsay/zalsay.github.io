@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zalsay.github.io</id>
     <title>小淘桃成长日记</title>
-    <updated>2019-05-30T09:57:47.954Z</updated>
+    <updated>2019-05-30T09:59:03.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zalsay.github.io"/>
     <link rel="self" href="https://zalsay.github.io/atom.xml"/>
@@ -13,8 +13,8 @@
     <rights>All rights reserved 2019, 小淘桃成长日记</rights>
     <entry>
         <title type="html"><![CDATA[廖彩杏]]></title>
-        <id>https://zalsay.github.io/post/liao-cai-xing</id>
-        <link href="https://zalsay.github.io/post/liao-cai-xing">
+        <id>https://zalsay.github.io/post/liaocaixing</id>
+        <link href="https://zalsay.github.io/post/liaocaixing">
         </link>
         <updated>2019-05-30T09:55:51.000Z</updated>
         <content type="html"><![CDATA[<p>在台湾英文启蒙界，有三位大咖，他们创造了英文启蒙的三大体系。廖彩杏，就是其中的一位大咖。（另外两个分别是汪培珽和吴敏兰）
