@@ -1644,6 +1644,14 @@ td {
   text-align: right;
 }
 
+      .main {
+        max-width: 600px;
+      }
+    
+      .main {
+        background: #fcc419;
+      }
+    
       body {
         background: #fcc419;
       }
